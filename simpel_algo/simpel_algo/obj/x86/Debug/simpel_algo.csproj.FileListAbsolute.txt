@@ -1,0 +1,5 @@
+/media/l/Data/pemograman/mono/simpel_algo/simpel_algo/simpel_algo/bin/Debug/simpel_algo.exe
+/media/l/Data/pemograman/mono/simpel_algo/simpel_algo/simpel_algo/bin/Debug/simpel_algo.pdb
+/media/l/Data/pemograman/mono/simpel_algo/simpel_algo/simpel_algo/obj/x86/Debug/simpel_algo.csprojAssemblyReference.cache
+/media/l/Data/pemograman/mono/simpel_algo/simpel_algo/simpel_algo/obj/x86/Debug/simpel_algo.exe
+/media/l/Data/pemograman/mono/simpel_algo/simpel_algo/simpel_algo/obj/x86/Debug/simpel_algo.pdb
